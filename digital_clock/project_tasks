@@ -1,0 +1,9 @@
+This project has the following flow
+Accept user input on whether he wants to display the 'Digital Clock' or the 'Countdown timer'
+If the user selects a 'Digital Clock'
+We will display the current time
+We will update the current time every 1 second
+If the user selects a 'Countdown timer'
+We will ask the user for the countdown target time
+We will display the time remaining
+Once the countdown is complete, we will exit the countdown with a display message
